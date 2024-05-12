@@ -1,0 +1,37 @@
+//MO000-001.TXT ANA00000 TO ANA00001
+annee_scolaire		NFI		nouveau fichier
+classe		NFI		nouveau fichier
+competence		NFI		nouveau fichier
+composition		NFI		nouveau fichier
+developpement		NFI		nouveau fichier
+eleve		NFI		nouveau fichier
+enseignant		NFI		nouveau fichier
+enseigner		NFI		nouveau fichier
+evaluation		NFI		nouveau fichier
+inscription		NFI		nouveau fichier
+lecon		NFI		nouveau fichier
+matiere		NFI		nouveau fichier
+niveau		NFI		nouveau fichier
+participer		NFI		nouveau fichier
+presentation		NFI		nouveau fichier
+reglement		NFI		nouveau fichier
+seance		NFI		nouveau fichier
+semaine		NFI		nouveau fichier
+classe_ibfk_1		NWL	niveau (id_niv) et classe (ld_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et classe (ld_niv)
+classe_ibfk_2		NWL	enseignant (id_ens) et classe (id_ens)	Nouvelle liaison entre les fichiers enseignant (id_ens) et classe (id_ens)
+classe_ibfk_3		NWL	inscription (id_inscrip) et classe (id_inscrip)	Nouvelle liaison entre les fichiers inscription (id_inscrip) et classe (id_inscrip)
+competence_ibfk_1		NWL	matiere (id_mat) et competence (id_mat)	Nouvelle liaison entre les fichiers matiere (id_mat) et competence (id_mat)
+developpement_ibfk_1		NWL	seance (id_sce) et developpement (id_sce)	Nouvelle liaison entre les fichiers seance (id_sce) et developpement (id_sce)
+enseigner_ibfk_1		NWL	matiere (id_mat) et enseigner (id_mat)	Nouvelle liaison entre les fichiers matiere (id_mat) et enseigner (id_mat)
+enseigner_ibfk_2		NWL	classe (id_classe) et enseigner (id_classe)	Nouvelle liaison entre les fichiers classe (id_classe) et enseigner (id_classe)
+evaluation_ibfk_1		NWL	seance (id_sce) et evaluation (id_sce)	Nouvelle liaison entre les fichiers seance (id_sce) et evaluation (id_sce)
+inscription_ibfk_1		NWL	annee_scolaire (id_annee) et inscription (id_annee)	Nouvelle liaison entre les fichiers annee_scolaire (id_annee) et inscription (id_annee)
+inscription_ibfk_2		NWL	eleve (id_elev) et inscription (id_elev)	Nouvelle liaison entre les fichiers eleve (id_elev) et inscription (id_elev)
+lecon_ibfk_1		NWL	semaine (id_sem) et lecon (id_sem)	Nouvelle liaison entre les fichiers semaine (id_sem) et lecon (id_sem)
+lecon_ibfk_2		NWL	competence (id_compet) et lecon (id_compet)	Nouvelle liaison entre les fichiers competence (id_compet) et lecon (id_compet)
+participer_ibfk_1		NWL	eleve (id_elev) et participer (id_elev)	Nouvelle liaison entre les fichiers eleve (id_elev) et participer (id_elev)
+participer_ibfk_2		NWL	composition (id_compo) et participer (id_compo)	Nouvelle liaison entre les fichiers composition (id_compo) et participer (id_compo)
+presentation_ibfk_1		NWL	seance (id_sce) et presentation (id_sce)	Nouvelle liaison entre les fichiers seance (id_sce) et presentation (id_sce)
+reglement_ibfk_1		NWL	inscription (id_inscrip) et reglement (id_inscrip)	Nouvelle liaison entre les fichiers inscription (id_inscrip) et reglement (id_inscrip)
+seance_ibfk_1		NWL	lecon (id_lec) et seance (id_lec)	Nouvelle liaison entre les fichiers lecon (id_lec) et seance (id_lec)
+Ma connexion MYSQL		CNX+		

@@ -1,0 +1,2 @@
+//MO133-134.TXT ANA00133 TO ANA00134
+epreuve	coef_epve	CLEN		la rubrique coef_epve est maintenant une clé

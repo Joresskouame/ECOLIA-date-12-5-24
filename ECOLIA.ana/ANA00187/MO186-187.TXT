@@ -1,0 +1,2 @@
+//MO186-187.TXT ANA00186 TO ANA00187
+date_composition	date	CLEN		la rubrique date est maintenant une clé

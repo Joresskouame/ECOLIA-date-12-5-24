@@ -1,0 +1,5 @@
+//MO145-146.TXT ANA00145 TO ANA00146
+epreuve		TAR	155	nouvelle taille enregistrement : 155
+epreuve	coef_epve	RUB-		la rubrique coef_epve est supprimée
+se_trouver		TAR	12	nouvelle taille enregistrement : 12
+se_trouver	coef_epve	RUB+		coef_epve est une nouvelle rubrique

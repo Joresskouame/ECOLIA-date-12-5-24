@@ -1,0 +1,7 @@
+//MO174-175.TXT ANA00174 TO ANA00175
+seance		TAR	1619	nouvelle taille enregistrement : 1619
+seance	duree	CNW	Date et Heure (aaaammjjhhmmssccc)$Heure (hhmm)	la rubrique duree a pour nouveau type Date et Heure (aaaammjjhhmmssc
+utilisateur		TAR	393	nouvelle taille enregistrement : 393
+utilisateur	privilege	RUB+		privilege est une nouvelle rubrique
+utilisateur	etat_user	RUB+		etat_user est une nouvelle rubrique
+utilisateur	profil_user	RUB-		la rubrique profil_user est supprimée

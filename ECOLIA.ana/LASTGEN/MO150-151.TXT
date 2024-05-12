@@ -1,0 +1,4 @@
+//MO150-151.TXT ANA00150 TO ANA00151
+enseigner	id_mat_2	RUB+		id_mat_2 est une nouvelle clé
+enseigner_ibfk_1		DEL	matiere (id_mat) et enseigner (id_mat)	Liaison supprimée entre les fichiers matiere (id_mat) et enseigner (id_mat)
+niveau_enseigner		DEL	niveau (id_niv) et enseigner (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et enseigner (id_niv)

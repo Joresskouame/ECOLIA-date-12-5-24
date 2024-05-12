@@ -1,0 +1,20 @@
+//MO099-100.TXT ANA00099 TO ANA00100
+competence	theme_compet	CLEN		la rubrique theme_compet est maintenant une clé
+composition	lib_compo	CLEN		la rubrique lib_compo est maintenant une clé
+developpement	plan_cours	CLEN		la rubrique plan_cours est maintenant une clé
+developpement	meth_moyen	CLEN		la rubrique meth_moyen est maintenant une clé
+developpement	s_p	CLEN		la rubrique s_p est maintenant une clé
+developpement	rep_att	CLEN		la rubrique rep_att est maintenant une clé
+evaluation	plan_cours	CLEN		la rubrique plan_cours est maintenant une clé
+evaluation	meth_moyen	CLEN		la rubrique meth_moyen est maintenant une clé
+evaluation	s_p	CLEN		la rubrique s_p est maintenant une clé
+evaluation	rep_att	CLEN		la rubrique rep_att est maintenant une clé
+matiere	doc	CLEN		la rubrique doc est maintenant une clé
+presentation	plan_cours	CLEN		la rubrique plan_cours est maintenant une clé
+presentation	meth_moyen	CLEN		la rubrique meth_moyen est maintenant une clé
+presentation	s_p	CLEN		la rubrique s_p est maintenant une clé
+presentation	rep_att	CLEN		la rubrique rep_att est maintenant une clé
+seance	titre_sce	CLEN		la rubrique titre_sce est maintenant une clé
+seance	habilete	CLEN		la rubrique habilete est maintenant une clé
+seance	contenu	CLEN		la rubrique contenu est maintenant une clé
+seance	situation	CLEN		la rubrique situation est maintenant une clé

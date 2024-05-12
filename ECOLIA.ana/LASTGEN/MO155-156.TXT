@@ -1,0 +1,2 @@
+//MO155-156.TXT ANA00155 TO ANA00156
+niveau_se_trouver		NWL	niveau (id_niv) et se_trouver (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et se_trouver (id_niv)

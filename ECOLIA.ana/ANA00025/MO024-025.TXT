@@ -1,0 +1,6 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+class		FIC-	class	Fichier supprimé class
+class_enseigner		DEL	class (id_classe) et enseigner (id_classe)	Liaison supprimée entre les fichiers class (id_classe) et enseigner (id_classe)
+inscription_class		DEL	inscription (id_inscrip) et class (id_inscrip)	Liaison supprimée entre les fichiers inscription (id_inscrip) et class (id_inscrip)
+enseignant_class		DEL	enseignant (id_ens) et class (id_ens)	Liaison supprimée entre les fichiers enseignant (id_ens) et class (id_ens)
+niveau_class		DEL	niveau (id_niv) et class (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et class (id_niv)

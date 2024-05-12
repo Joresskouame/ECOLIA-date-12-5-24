@@ -1,0 +1,2 @@
+//MO096-097.TXT ANA00096 TO ANA00097
+annee_scolaire_composition		NWL	annee_scolaire (id_annee) et composition (id_annee)	Nouvelle liaison entre les fichiers annee_scolaire (id_annee) et composition (id_annee)

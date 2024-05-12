@@ -1,0 +1,5 @@
+//MO173-174.TXT ANA00173 TO ANA00174
+concerner	id_epve	RUB+		id_epve est une nouvelle clé
+concerner	id_compo	RUB-		la rubrique id_compo est supprimée
+epreuve_concerner		NWL	epreuve (id_epve) et concerner (id_epve)	Nouvelle liaison entre les fichiers epreuve (id_epve) et concerner (id_epve)
+composition_concerner		DEL	composition (id_compo) et concerner (id_compo)	Liaison supprimée entre les fichiers composition (id_compo) et concerner (id_compo)

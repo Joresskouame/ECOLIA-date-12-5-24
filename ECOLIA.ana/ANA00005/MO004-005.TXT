@@ -1,0 +1,3 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+seance		TAR	1376	nouvelle taille enregistrement : 1376
+seance	num_sce	RUB+		num_sce est une nouvelle rubrique

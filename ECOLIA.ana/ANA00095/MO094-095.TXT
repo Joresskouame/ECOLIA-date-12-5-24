@@ -1,0 +1,10 @@
+//MO094-095.TXT ANA00094 TO ANA00095
+lecon		TAR	500	nouvelle taille enregistrement : 500
+lecon	materiel	RUB+		materiel est une nouvelle rubrique
+matiere		TAR	648	nouvelle taille enregistrement : 648
+matiere	doc	RUB+		doc est une nouvelle rubrique
+seance		TAR	1376	nouvelle taille enregistrement : 1376
+seance	materiel	RUB-		la rubrique materiel est supprimée
+seance	doc	RUB-		la rubrique doc est supprimée
+personnel		TAR	1582	nouvelle taille enregistrement : 1582
+personnel	fonct	RUB-		la rubrique fonct est supprimée

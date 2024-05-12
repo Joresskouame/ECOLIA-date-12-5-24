@@ -1,0 +1,4 @@
+//MO077-078.TXT ANA00077 TO ANA00078
+eleve	nom_elev	CLEN		la rubrique nom_elev est maintenant une clé
+eleve	pre_elev	CLEN		la rubrique pre_elev est maintenant une clé
+eleve	nom_elev2	RUB-		la rubrique nom_elev2 est supprimée

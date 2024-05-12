@@ -1,0 +1,3 @@
+//MO097-098.TXT ANA00097 TO ANA00098
+utilisateur		TAR	799	nouvelle taille enregistrement : 799
+utilisateur	user_name	RUB-		la rubrique user_name est supprimée

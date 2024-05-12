@@ -1,0 +1,3 @@
+//MO172-173.TXT ANA00172 TO ANA00173
+epreuve		TAR	306	nouvelle taille enregistrement : 306
+epreuve	lib_epve	CNW	Chaîne unicode$Chaîne	la rubrique lib_epve a pour nouveau type Chaîne unicode

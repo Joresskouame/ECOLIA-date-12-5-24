@@ -1,0 +1,15 @@
+//MO132-133.TXT ANA00132 TO ANA00133
+composition		TAR	106	nouvelle taille enregistrement : 106
+composition	id_annee	RUB-		la rubrique id_annee est supprimée
+matiere		TAR	406	nouvelle taille enregistrement : 406
+matiere	doc	RUB-		la rubrique doc est supprimée
+seance		TAR	1618	nouvelle taille enregistrement : 1618
+seance	doc	RUB+		doc est une nouvelle rubrique
+personnel	nom_pers	CLEN		la rubrique nom_pers est maintenant une clé
+personnel	pre_pers	CLEN		la rubrique pre_pers est maintenant une clé
+epreuve		TAR	163	nouvelle taille enregistrement : 163
+epreuve	id_niv	RUB+		id_niv est une nouvelle clé
+annee_scolaire_participer		NWL	annee_scolaire (id_annee) et participer (id_annee)	Nouvelle liaison entre les fichiers annee_scolaire (id_annee) et participer (id_annee)
+niveau_epreuve		NWL	niveau (id_niv) et epreuve (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et epreuve (id_niv)
+epreuve_participer		NWL	epreuve (id_epve) et participer (id_epve)	Nouvelle liaison entre les fichiers epreuve (id_epve) et participer (id_epve)
+annee_scolaire_composition		DEL	annee_scolaire (id_annee) et composition (id_annee)	Liaison supprimée entre les fichiers annee_scolaire (id_annee) et composition (id_annee)

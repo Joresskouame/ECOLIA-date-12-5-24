@@ -1,0 +1,11 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+class		NFI		nouveau fichier
+classe		FIC-	classe	Fichier supprimé classe
+class_enseigner		NWL	class (id_classe) et enseigner (id_classe)	Nouvelle liaison entre les fichiers class (id_classe) et enseigner (id_classe)
+inscription_class		NWL	inscription (id_inscrip) et class (id_inscrip)	Nouvelle liaison entre les fichiers inscription (id_inscrip) et class (id_inscrip)
+enseignant_class		NWL	enseignant (id_ens) et class (id_ens)	Nouvelle liaison entre les fichiers enseignant (id_ens) et class (id_ens)
+niveau_class		NWL	niveau (id_niv) et class (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et class (id_niv)
+niveau_classe		DEL	niveau (id_niv) et classe (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et classe (id_niv)
+classe_ibfk_2		DEL	enseignant (id_ens) et classe (id_ens)	Liaison supprimée entre les fichiers enseignant (id_ens) et classe (id_ens)
+classe_ibfk_3		DEL	inscription (id_inscrip) et classe (id_inscrip)	Liaison supprimée entre les fichiers inscription (id_inscrip) et classe (id_inscrip)
+enseigner_ibfk_2		DEL	classe (id_classe) et enseigner (id_classe)	Liaison supprimée entre les fichiers classe (id_classe) et enseigner (id_classe)

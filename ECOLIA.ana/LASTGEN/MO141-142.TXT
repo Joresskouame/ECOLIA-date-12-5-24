@@ -1,0 +1,7 @@
+//MO141-142.TXT ANA00141 TO ANA00142
+composition		TAR	110	nouvelle taille enregistrement : 110
+composition	id_niv	RUB+		id_niv est une nouvelle clé
+epreuve		TAR	159	nouvelle taille enregistrement : 159
+epreuve	id_niv	RUB-		la rubrique id_niv est supprimée
+niveau_composition		NWL	niveau (id_niv) et composition (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et composition (id_niv)
+niveau_epreuve		DEL	niveau (id_niv) et epreuve (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et epreuve (id_niv)

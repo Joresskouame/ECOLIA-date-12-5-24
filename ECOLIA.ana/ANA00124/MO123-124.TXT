@@ -1,0 +1,5 @@
+//MO123-124.TXT ANA00123 TO ANA00124
+composition		TAR	110	nouvelle taille enregistrement : 110
+composition	date_compo	RUB-		la rubrique date_compo est supprimée
+participer		TAR	21	nouvelle taille enregistrement : 21
+participer	date_compo	RUB+		date_compo est une nouvelle rubrique

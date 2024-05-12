@@ -1,0 +1,5 @@
+//MO048-049.TXT ANA00048 TO ANA00049
+enseigne		TAR	12	nouvelle taille enregistrement : 12
+enseigne	id_annee	RUB+		id_annee est une nouvelle clé
+enseigne	PRIMARY	RUB+		PRIMARY est une nouvelle clé
+annee_scolaire_enseigne		NWL	annee_scolaire (id_annee) et enseigne (id_annee)	Nouvelle liaison entre les fichiers annee_scolaire (id_annee) et enseigne (id_annee)

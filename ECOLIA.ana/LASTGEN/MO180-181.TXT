@@ -1,0 +1,4 @@
+//MO180-181.TXT ANA00180 TO ANA00181
+utilisateur		TAR	364	nouvelle taille enregistrement : 364
+utilisateur	mdp	CLEN		la rubrique mdp est maintenant une clé
+utilisateur	mdp	CNW	Chaîne binaire$Mémo Binaire	la rubrique mdp a pour nouveau type Chaîne binaire

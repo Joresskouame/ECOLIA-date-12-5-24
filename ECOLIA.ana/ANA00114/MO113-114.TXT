@@ -1,0 +1,3 @@
+//MO113-114.TXT ANA00113 TO ANA00114
+inscription		TAR	145	nouvelle taille enregistrement : 145
+inscription	mat_elev	RUB+		mat_elev est une nouvelle clé

@@ -1,0 +1,2 @@
+//MO151-152.TXT ANA00151 TO ANA00152
+se_trouver	coef_epve	CLEN		la rubrique coef_epve est maintenant une clé

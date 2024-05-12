@@ -1,0 +1,4 @@
+//MO050-051.TXT ANA00050 TO ANA00051
+utilisateur		TAR	226	nouvelle taille enregistrement : 226
+utilisateur	date_creat	RUB+		date_creat est une nouvelle rubrique
+utilisateur	date_dern_modif	RUB+		date_dern_modif est une nouvelle rubrique

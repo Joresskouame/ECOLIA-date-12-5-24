@@ -1,0 +1,4 @@
+//MO179-180.TXT ANA00179 TO ANA00180
+utilisateur		TAR	369	nouvelle taille enregistrement : 369
+utilisateur	mdp	CLE-		la rubrique mdp n'est plus une clé
+utilisateur	mdp	CNW	Mémo Binaire$Chaîne unicode	la rubrique mdp a pour nouveau type Mémo image

@@ -1,0 +1,2 @@
+//MO012-013.TXT ANA00012 TO ANA00013
+annee_scolaire	lib_annee	CLEU		la rubrique lib_annee est maintenant une clé

@@ -1,0 +1,29 @@
+//MO040-041.TXT ANA00040 TO ANA00041
+inscription		TAR	83	nouvelle taille enregistrement : 83
+inscription	ins_date_inscrip	RUB+		ins_date_inscrip est une nouvelle rubrique
+inscription	ins_frais_inscrip	RUB+		ins_frais_inscrip est une nouvelle rubrique
+inscription	ins_scolarite	RUB+		ins_scolarite est une nouvelle rubrique
+inscription	ins_frais_annex_inscrip	RUB+		ins_frais_annex_inscrip est une nouvelle rubrique
+inscription	ins_total_a_regle	RUB+		ins_total_a_regle est une nouvelle rubrique
+inscription	id_classe	RUB+		id_classe est une nouvelle clé
+inscription	date_inscrip	RUB-		la rubrique date_inscrip est supprimée
+inscription	frais_inscrip	RUB-		la rubrique frais_inscrip est supprimée
+inscription	scolarite	RUB-		la rubrique scolarite est supprimée
+inscription	frais_annex_inscrip	RUB-		la rubrique frais_annex_inscrip est supprimée
+inscription	total_regle	RUB-		la rubrique total_regle est supprimée
+clas		TAR	66	nouvelle taille enregistrement : 66
+clas	cls_frais_inscrip	RUB+		cls_frais_inscrip est une nouvelle rubrique
+clas	cls_frais_annex_inscrip	RUB+		cls_frais_annex_inscrip est une nouvelle rubrique
+clas	cls_scolarite	RUB+		cls_scolarite est une nouvelle rubrique
+clas	cls_total_a_regle	RUB+		cls_total_a_regle est une nouvelle rubrique
+clas	frais_inscrip	RUB-		la rubrique frais_inscrip est supprimée
+clas	frais_annex_inscrip	RUB-		la rubrique frais_annex_inscrip est supprimée
+clas	scolarite	RUB-		la rubrique scolarite est supprimée
+clas	total_regle	RUB-		la rubrique total_regle est supprimée
+clas	id_ens	RUB-		la rubrique id_ens est supprimée
+clas	id_inscrip	RUB-		la rubrique id_inscrip est supprimée
+employe		NFI		nouveau fichier
+enseignant		FIC-	enseignant	Fichier supprimé enseignant
+clas_inscription		NWL	clas (id_classe) et inscription (id_classe)	Nouvelle liaison entre les fichiers clas (id_classe) et inscription (id_classe)
+enseignant_clas		DEL	enseignant (id_ens) et clas (id_ens)	Liaison supprimée entre les fichiers enseignant (id_ens) et clas (id_ens)
+inscription_clas		DEL	inscription (id_inscrip) et clas (id_inscrip)	Liaison supprimée entre les fichiers inscription (id_inscrip) et clas (id_inscrip)

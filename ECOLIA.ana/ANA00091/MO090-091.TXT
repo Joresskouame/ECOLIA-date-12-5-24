@@ -1,0 +1,4 @@
+//MO090-091.TXT ANA00090 TO ANA00091
+enseigne		TAR	74	nouvelle taille enregistrement : 74
+enseigne	mat_pers	RUB+		mat_pers est une nouvelle clé
+personnel_enseigne		DEL	personnel (id_pers) et enseigne (id_pers)	Liaison supprimée entre les fichiers personnel (id_pers) et enseigne (id_pers)

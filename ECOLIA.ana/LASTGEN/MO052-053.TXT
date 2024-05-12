@@ -1,0 +1,2 @@
+//MO052-053.TXT ANA00052 TO ANA00053
+utilisateur	login	CLEN		la rubrique login est maintenant une clé

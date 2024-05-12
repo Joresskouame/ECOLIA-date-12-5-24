@@ -1,0 +1,6 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+clas		NFI		nouveau fichier
+niveau_clas		NWL	niveau (id_niv) et clas (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et clas (id_niv)
+enseignant_clas		NWL	enseignant (id_ens) et clas (id_ens)	Nouvelle liaison entre les fichiers enseignant (id_ens) et clas (id_ens)
+inscription_clas		NWL	inscription (id_inscrip) et clas (id_inscrip)	Nouvelle liaison entre les fichiers inscription (id_inscrip) et clas (id_inscrip)
+clas_enseigner		NWL	clas (id_classe) et enseigner (id_classe)	Nouvelle liaison entre les fichiers clas (id_classe) et enseigner (id_classe)

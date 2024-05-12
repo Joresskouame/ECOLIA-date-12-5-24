@@ -1,0 +1,2 @@
+//MO058-059.TXT ANA00058 TO ANA00059
+utilisateur	mdp	CLEN		la rubrique mdp est maintenant une clé

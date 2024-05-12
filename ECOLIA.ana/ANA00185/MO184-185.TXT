@@ -1,0 +1,3 @@
+//MO184-185.TXT ANA00184 TO ANA00185
+eleve	nationalite	RUB+		nationalite est une nouvelle rubrique
+eleve	nationnalite	RUB-		la rubrique nationnalite est supprimée

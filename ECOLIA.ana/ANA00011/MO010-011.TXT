@@ -1,0 +1,6 @@
+//MO010-011.TXT ANA00010 TO ANA00011
+annee_scolaire		TAR	107	nouvelle taille enregistrement : 107
+annee_scolaire	lib_annee	RUB+		lib_annee est une nouvelle rubrique
+annee_scolaire	etat_annee	RUB+		etat_annee est une nouvelle rubrique
+annee_scolaire	deb_annee	RUB-		la rubrique deb_annee est supprimée
+annee_scolaire	fin_annee	RUB-		la rubrique fin_annee est supprimée

@@ -1,0 +1,5 @@
+//MO156-157.TXT ANA00156 TO ANA00157
+participer		TAR	29	nouvelle taille enregistrement : 29
+participer		IDE+		fichier avec identifiant
+participer	id_part	RUB+		id_part est une nouvelle clé
+participer	PRIMARY	RUB-		la rubrique PRIMARY est supprimée

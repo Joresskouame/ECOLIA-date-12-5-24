@@ -1,0 +1,6 @@
+//MO065-066.TXT ANA00065 TO ANA00066
+competence	num_compet	CLEN		la rubrique num_compet est maintenant une clé
+lecon	num_lec	CLEN		la rubrique num_lec est maintenant une clé
+matiere	lib_mat	CLEN		la rubrique lib_mat est maintenant une clé
+seance	num_sce	CLEN		la rubrique num_sce est maintenant une clé
+semaine	num_sem	CLEN		la rubrique num_sem est maintenant une clé

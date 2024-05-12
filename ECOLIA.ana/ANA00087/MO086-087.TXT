@@ -1,0 +1,6 @@
+//MO086-087.TXT ANA00086 TO ANA00087
+matiere		TAR	406	nouvelle taille enregistrement : 406
+matiere	doc	RUB-		la rubrique doc est supprimée
+seance		TAR	1920	nouvelle taille enregistrement : 1920
+seance	materiel	TAI+	60	la rubrique materiel a comme nouvelle taille 302 au lieu de 242
+seance	doc	RUB+		doc est une nouvelle rubrique

@@ -1,0 +1,3 @@
+//MO152-153.TXT ANA00152 TO ANA00153
+se_trouver		TAR	16	nouvelle taille enregistrement : 16
+se_trouver	id_niv	RUB+		id_niv est une nouvelle clé

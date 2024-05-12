@@ -1,0 +1,3 @@
+//MO081-082.TXT ANA00081 TO ANA00082
+utilisateur		TAR	979	nouvelle taille enregistrement : 979
+utilisateur	statut_user	RUB+		statut_user est une nouvelle rubrique

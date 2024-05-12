@@ -1,0 +1,5 @@
+//MO076-077.TXT ANA00076 TO ANA00077
+eleve		TAR	1121	nouvelle taille enregistrement : 1121
+eleve	photo_elev	RUB+		photo_elev est une nouvelle rubrique
+seance		TAR	1618	nouvelle taille enregistrement : 1618
+seance	materiel	RUB+		materiel est une nouvelle rubrique

@@ -1,0 +1,2 @@
+//MO177-178.TXT ANA00177 TO ANA00178
+concerner	id_concern_2	RUB+		id_concern_2 est une nouvelle clé

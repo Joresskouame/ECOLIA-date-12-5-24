@@ -1,0 +1,3 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+annee_scolaire		TAR	208	nouvelle taille enregistrement : 208
+annee_scolaire	etat_annee	CNW	Chaîne unicode$Entier sur 1 octet	la rubrique etat_annee a pour nouveau type Chaîne unicode

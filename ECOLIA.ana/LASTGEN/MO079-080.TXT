@@ -1,0 +1,5 @@
+//MO079-080.TXT ANA00079 TO ANA00080
+personnel		TAR	1684	nouvelle taille enregistrement : 1684
+personnel	photo_pers	RUB+		photo_pers est une nouvelle rubrique
+utilisateur		TAR	910	nouvelle taille enregistrement : 910
+utilisateur	user_photo	RUB+		user_photo est une nouvelle rubrique

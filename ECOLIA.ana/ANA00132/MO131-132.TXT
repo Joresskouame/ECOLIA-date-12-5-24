@@ -1,0 +1,17 @@
+//MO131-132.TXT ANA00131 TO ANA00132
+participer		TAR	29	nouvelle taille enregistrement : 29
+participer	note_epve	RUB+		note_epve est une nouvelle rubrique
+participer	id_epve	RUB+		id_epve est une nouvelle clé
+participer	id_annee	RUB+		id_annee est une nouvelle clé
+participer	note	RUB-		la rubrique note est supprimée
+seance	date_sce	CLEN		la rubrique date_sce est maintenant une clé
+enseigne	id_niv	RUB+		id_niv est une nouvelle clé
+enseigne	id_classe	RUB-		la rubrique id_classe est supprimée
+utilisateur		TAR	1041	nouvelle taille enregistrement : 1041
+utilisateur	user_name	RUB+		user_name est une nouvelle clé
+epreuve		TAR	159	nouvelle taille enregistrement : 159
+epreuve	lib_epve	CLEN		la rubrique lib_epve est maintenant une clé
+epreuve	lib_epve	CNW	Chaîne$Chaîne unicode	la rubrique lib_epve a pour nouveau type Chaîne
+personnel_enseigne		NWL	personnel (id_pers) et enseigne (id_pers)	Nouvelle liaison entre les fichiers personnel (id_pers) et enseigne (id_pers)
+clas_enseigne		DEL	clas (id_classe) et enseigne (id_classe)	Liaison supprimée entre les fichiers clas (id_classe) et enseigne (id_classe)
+annee_scolaire_enseigne		DEL	annee_scolaire (id_annee) et enseigne (id_annee)	Liaison supprimée entre les fichiers annee_scolaire (id_annee) et enseigne (id_annee)

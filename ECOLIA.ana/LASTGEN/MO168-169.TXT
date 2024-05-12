@@ -1,0 +1,6 @@
+//MO168-169.TXT ANA00168 TO ANA00169
+utilisateur		TAR	291	nouvelle taille enregistrement : 291
+utilisateur	date_modif	RUB+		date_modif est une nouvelle rubrique
+utilisateur	user_photo	RUB-		la rubrique user_photo est supprimée
+utilisateur	user_name	RUB-		la rubrique user_name est supprimée
+utilisateur	date_dern_modif	RUB-		la rubrique date_dern_modif est supprimée

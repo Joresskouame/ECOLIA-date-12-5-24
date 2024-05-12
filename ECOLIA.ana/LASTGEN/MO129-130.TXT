@@ -1,0 +1,3 @@
+//MO129-130.TXT ANA00129 TO ANA00130
+epreuve		TAR	210	nouvelle taille enregistrement : 210
+epreuve	coef_epve	RUB+		coef_epve est une nouvelle rubrique

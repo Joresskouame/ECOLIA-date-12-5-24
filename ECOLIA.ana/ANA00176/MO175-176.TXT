@@ -1,0 +1,2 @@
+//MO175-176.TXT ANA00175 TO ANA00176
+concerner	coef	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique coef a pour nouveau type Réel sur 4 octets

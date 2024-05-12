@@ -1,0 +1,5 @@
+//MO134-135.TXT ANA00134 TO ANA00135
+epreuve		IDE+		fichier avec identifiant
+epreuve	id_epve	CNW	Identifiant automatique (4 octets)$Entier sur 4 octets	la rubrique id_epve a pour nouveau type Identifiant automatique (4 oct
+annee_scolaire_enseigne		NWL	annee_scolaire (id_annee) et enseigne (id_annee)	Nouvelle liaison entre les fichiers annee_scolaire (id_annee) et enseigne (id_annee)
+niveau_enseigne		NWL	niveau (id_niv) et enseigne (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et enseigne (id_niv)

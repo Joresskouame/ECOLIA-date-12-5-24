@@ -1,0 +1,15 @@
+//MO182-183.TXT ANA00182 TO ANA00183
+participer		TAR	28	nouvelle taille enregistrement : 28
+participer	coef_part	RUB+		coef_part est une nouvelle rubrique
+participer	id_date_comp	RUB+		id_date_comp est une nouvelle clé
+participer	PRIMARY	RUB+		PRIMARY est une nouvelle clé
+participer	id_compo	RUB-		la rubrique id_compo est supprimée
+enseigne	id_classe	RUB+		id_classe est une nouvelle clé
+enseigne	id_niv	RUB-		la rubrique id_niv est supprimée
+concerner	coef	CLE-		la rubrique coef n'est plus une clé
+date_composition		NFI		nouveau fichier
+composition_date_composition		NWL	composition (id_compo) et date_composition (id_compo)	Nouvelle liaison entre les fichiers composition (id_compo) et date_composition (id_compo)
+clas_enseigne		NWL	clas (id_classe) et enseigne (id_classe)	Nouvelle liaison entre les fichiers clas (id_classe) et enseigne (id_classe)
+date_composition_participer		NWL	date_composition (id_date_comp) et participer (id_date_comp)	Nouvelle liaison entre les fichiers date_composition (id_date_comp) et participer (id_date_comp)
+participer_ibfk_2		DEL	composition (id_compo) et participer (id_compo)	Liaison supprimée entre les fichiers composition (id_compo) et participer (id_compo)
+niveau_enseigne		DEL	niveau (id_niv) et enseigne (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et enseigne (id_niv)

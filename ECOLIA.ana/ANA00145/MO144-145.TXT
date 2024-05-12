@@ -1,0 +1,7 @@
+//MO144-145.TXT ANA00144 TO ANA00145
+composition		TAR	110	nouvelle taille enregistrement : 110
+composition	id_epve	RUB-		la rubrique id_epve est supprimée
+se_trouver		NFI		nouveau fichier
+epreuve_se_trouver		NWL	epreuve (id_epve) et se_trouver (id_epve)	Nouvelle liaison entre les fichiers epreuve (id_epve) et se_trouver (id_epve)
+composition_se_trouver		NWL	composition (id_compo) et se_trouver (id_compo)	Nouvelle liaison entre les fichiers composition (id_compo) et se_trouver (id_compo)
+epreuve_composition		DEL	epreuve (id_epve) et composition (id_epve)	Liaison supprimée entre les fichiers epreuve (id_epve) et composition (id_epve)

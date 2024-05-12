@@ -1,0 +1,21 @@
+//MO166-167.TXT ANA00166 TO ANA00167
+composition		TAR	115	nouvelle taille enregistrement : 115
+composition	date_compo	RUB+		date_compo est une nouvelle rubrique
+composition	id_niv	RUB-		la rubrique id_niv est supprimée
+participer		TAR	24	nouvelle taille enregistrement : 24
+participer	id_epve	RUB+		id_epve est une nouvelle clé
+participer	date_compo	RUB-		la rubrique date_compo est supprimée
+utilisateur		TAR	1045	nouvelle taille enregistrement : 1045
+utilisateur	id_pers	RUB+		id_pers est une nouvelle clé
+concerner		NFI		nouveau fichier
+se_trouver		FIC-	se_trouver	Fichier supprimé se_trouver
+niveau_enseigner		NWL	niveau (id_niv) et enseigner (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et enseigner (id_niv)
+matiere_enseigner		NWL	matiere (id_mat) et enseigner (id_mat)	Nouvelle liaison entre les fichiers matiere (id_mat) et enseigner (id_mat)
+composition_concerner		NWL	composition (id_compo) et concerner (id_compo)	Nouvelle liaison entre les fichiers composition (id_compo) et concerner (id_compo)
+clas_concerner		NWL	clas (id_classe) et concerner (id_classe)	Nouvelle liaison entre les fichiers clas (id_classe) et concerner (id_classe)
+epreuve_participer		NWL	epreuve (id_epve) et participer (id_epve)	Nouvelle liaison entre les fichiers epreuve (id_epve) et participer (id_epve)
+personnel_utilisateur		NWL	personnel (id_pers) et utilisateur (id_pers)	Nouvelle liaison entre les fichiers personnel (id_pers) et utilisateur (id_pers)
+niveau_composition		DEL	niveau (id_niv) et composition (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et composition (id_niv)
+epreuve_se_trouver		DEL	epreuve (id_epve) et se_trouver (id_epve)	Liaison supprimée entre les fichiers epreuve (id_epve) et se_trouver (id_epve)
+composition_se_trouver		DEL	composition (id_compo) et se_trouver (id_compo)	Liaison supprimée entre les fichiers composition (id_compo) et se_trouver (id_compo)
+niveau_se_trouver		DEL	niveau (id_niv) et se_trouver (id_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et se_trouver (id_niv)

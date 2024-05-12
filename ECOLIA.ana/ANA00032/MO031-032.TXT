@@ -1,0 +1,3 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+niveau	lib_niv	CLEN		la rubrique lib_niv est maintenant une clé
+clas	lib_classe	CLEN		la rubrique lib_classe est maintenant une clé

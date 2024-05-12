@@ -1,0 +1,5 @@
+//MO124-125.TXT ANA00124 TO ANA00125
+enseigner	id_niv	RUB+		id_niv est une nouvelle clé
+enseigner	id_classe	RUB-		la rubrique id_classe est supprimée
+niveau_enseigner		NWL	niveau (id_niv) et enseigner (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et enseigner (id_niv)
+clas_enseigner		DEL	clas (id_classe) et enseigner (id_classe)	Liaison supprimée entre les fichiers clas (id_classe) et enseigner (id_classe)

@@ -1,0 +1,7 @@
+//MO143-144.TXT ANA00143 TO ANA00144
+composition		TAR	114	nouvelle taille enregistrement : 114
+composition	id_epve	RUB+		id_epve est une nouvelle clé
+participer		TAR	25	nouvelle taille enregistrement : 25
+participer	id_epve	RUB-		la rubrique id_epve est supprimée
+epreuve_composition		NWL	epreuve (id_epve) et composition (id_epve)	Nouvelle liaison entre les fichiers epreuve (id_epve) et composition (id_epve)
+epreuve_participer		DEL	epreuve (id_epve) et participer (id_epve)	Liaison supprimée entre les fichiers epreuve (id_epve) et participer (id_epve)

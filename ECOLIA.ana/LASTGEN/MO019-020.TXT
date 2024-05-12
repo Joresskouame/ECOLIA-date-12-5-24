@@ -1,0 +1,2 @@
+//MO019-020.TXT ANA00019 TO ANA00020
+annee_scolaire	etat_annee	CLE-		la rubrique etat_annee n'est plus une clé

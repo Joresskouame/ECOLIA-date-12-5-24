@@ -1,0 +1,3 @@
+//MO053-054.TXT ANA00053 TO ANA00054
+utilisateur		TAR	132	nouvelle taille enregistrement : 132
+utilisateur	mdp	CNW	Mémo Binaire$Chaîne unicode	la rubrique mdp a pour nouveau type Mémo image

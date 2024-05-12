@@ -1,0 +1,2 @@
+//MO067-068.TXT ANA00067 TO ANA00068
+lecon	titre_lec	CLEN		la rubrique titre_lec est maintenant une clé

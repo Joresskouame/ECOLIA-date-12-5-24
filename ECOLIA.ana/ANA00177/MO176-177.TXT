@@ -1,0 +1,2 @@
+//MO176-177.TXT ANA00176 TO ANA00177
+concerner	coef	CLEN		la rubrique coef est maintenant une clé

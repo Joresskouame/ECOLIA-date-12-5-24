@@ -1,0 +1,3 @@
+//MO185-186.TXT ANA00185 TO ANA00186
+composition		TAR	106	nouvelle taille enregistrement : 106
+composition	date_compo	RUB-		la rubrique date_compo est supprimée

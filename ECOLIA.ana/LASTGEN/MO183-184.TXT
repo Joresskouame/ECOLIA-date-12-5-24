@@ -1,0 +1,8 @@
+//MO183-184.TXT ANA00183 TO ANA00184
+enseigner		TAR	12	nouvelle taille enregistrement : 12
+enseigner		IDE+		fichier avec identifiant
+enseigner	id_enseigner	RUB+		id_enseigner est une nouvelle clé
+enseigner	id_mat_2	RUB-		la rubrique id_mat_2 est supprimée
+enseigne		TAR	78	nouvelle taille enregistrement : 78
+enseigne		IDE+		fichier avec identifiant
+enseigne	id_enseigne	RUB+		id_enseigne est une nouvelle clé

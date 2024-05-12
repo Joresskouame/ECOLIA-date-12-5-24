@@ -1,0 +1,3 @@
+//MO181-182.TXT ANA00181 TO ANA00182
+utilisateur		TAR	373	nouvelle taille enregistrement : 373
+utilisateur	mdp	TAI+	9	la rubrique mdp a comme nouvelle taille 12 au lieu de 3

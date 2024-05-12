@@ -1,0 +1,3 @@
+//MO068-069.TXT ANA00068 TO ANA00069
+matiere		TAR	648	nouvelle taille enregistrement : 648
+matiere	materiel	RUB-		la rubrique materiel est supprimée

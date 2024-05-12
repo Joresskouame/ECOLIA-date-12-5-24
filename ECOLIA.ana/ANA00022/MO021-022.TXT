@@ -1,0 +1,10 @@
+//MO021-022.TXT ANA00021 TO ANA00022
+classe		TAR	74	nouvelle taille enregistrement : 74
+classe	frais_inscrip	RUB+		frais_inscrip est une nouvelle rubrique
+classe	frais_annex_inscrip	RUB+		frais_annex_inscrip est une nouvelle rubrique
+classe	scolarite	RUB+		scolarite est une nouvelle rubrique
+classe	total_regle	RUB+		total_regle est une nouvelle rubrique
+classe	id_niv	RUB+		id_niv est une nouvelle clé
+classe	ld_niv	RUB-		la rubrique ld_niv est supprimée
+niveau_classe		NWL	niveau (id_niv) et classe (id_niv)	Nouvelle liaison entre les fichiers niveau (id_niv) et classe (id_niv)
+classe_ibfk_1		DEL	niveau (id_niv) et classe (ld_niv)	Liaison supprimée entre les fichiers niveau (id_niv) et classe (ld_niv)

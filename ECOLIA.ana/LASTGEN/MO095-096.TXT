@@ -1,0 +1,3 @@
+//MO095-096.TXT ANA00095 TO ANA00096
+composition		TAR	119	nouvelle taille enregistrement : 119
+composition	id_annee	RUB+		id_annee est une nouvelle clé

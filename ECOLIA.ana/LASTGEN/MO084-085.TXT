@@ -1,0 +1,3 @@
+//MO084-085.TXT ANA00084 TO ANA00085
+eleve		TAR	1159	nouvelle taille enregistrement : 1159
+eleve	contact_par	CNW	Chaîne unicode$Entier sur 4 octets	la rubrique contact_par a pour nouveau type Chaîne unicode

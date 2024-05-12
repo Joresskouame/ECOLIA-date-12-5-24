@@ -1,0 +1,4 @@
+//MO080-081.TXT ANA00080 TO ANA00081
+utilisateur		TAR	917	nouvelle taille enregistrement : 917
+utilisateur	date_dern_modif	CNW	Date et Heure (aaaammjjhhmmssccc)$Date (aaaammjj)	la rubrique date_dern_modif a pour nouveau type Date et Heure (aaaammjjhhmmssc
+utilisateur	dateh_dern_con	RUB+		dateh_dern_con est une nouvelle rubrique
